@@ -22,5 +22,6 @@ PPT작성|이수지|12.5|12.8
   - 분석 데이터([디렉토리](data/))
     - 공공데이터포털: https://www.data.go.kr/
     - 서울열린데이터광장: https://data.seoul.go.kr/
+    
 ![거북이팀](image2.jfif)
     
